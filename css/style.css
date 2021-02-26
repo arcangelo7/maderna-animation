@@ -2,7 +2,7 @@
 #documentation-section ol { counter-reset: item }
 #documentation-section ol li { display: block }
 #documentation-section ol li:before { content: counters(item, ".") " "; counter-increment: item }
-#documentation-section {
+#documentation-section, #about-section {
   text-align: justify;
   text-justify: inter-word;
 }
@@ -10,7 +10,7 @@
   margin-left: 10%;
 }
 
-figure {
+#documentation-section figure {
 	background: #fefefe;
 	border: 2px solid #fcfcfc;
 	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
@@ -20,14 +20,14 @@ figure {
   display: inline-block;
 }
 
-figure img {
+#documentation-section figure img {
 	width: 100%; height: auto;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 15px;
 	margin-bottom: 5px;
 }
 
-figure figcaption {
+#documentation-section figure figcaption {
   font-size: .9rem;
 	color: #444;
   line-height: 1.5;
