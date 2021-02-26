@@ -175,7 +175,7 @@
           </p>
           <figure>
             <img class="img-fluid" src="images/image001.png" alt="Figure 1 Concept map on the project">
-            <figcaption>Figure 1 Concept map on the project</figcaption>
+            <figcaption>Figure 1 Concept map on the project.</figcaption>
           </figure>
           <h2 class="text-black"><a name="_Toc42640288"></a>Concept of the project</h2>
           <h3 class="text-black"><a name="_Toc42640289"></a>The storyline</h3>
@@ -364,7 +364,7 @@
             sensors are used, the more natural the interaction is.</p>
             <figure>
               <img class="img-fluid" src="images/image002.png" alt="Figure 2 Classification of devices on the interaxion axis">
-              <figcaption>Figure 2 Classification of devices on the interaxion axis</figcaption>
+              <figcaption>Figure 2 Classification of devices on the interaxion axis.</figcaption>
             </figure>
           <p>For example, if we use a projector with touchscreen technology, a pointer is needed in oder to interact. At
             a much higher level, we find solutions such as the Xbox Kinect, which allows interaction through mid-air
@@ -566,7 +566,7 @@
               href="#_ftn13" name="_ftnref13">[13]</a></p>
           <figure>
             <img class="img-fluid" src="images/image003.jpg" alt="Figure 3 UML representation of the interaction between the system and the user">
-            <figcaption>Figure 3 UML representation of the interaction between the system and the user</figcaption>
+            <figcaption>Figure 3 UML representation of the interaction between the system and the user.</figcaption>
           </figure>
           <p>The graph consists of four main elements: the system, represented by the central rectangle, which, in this
             case, is our animation. The primary actor, who initiates the use of the system, i.e. the museum visitor and
@@ -664,7 +664,7 @@
           <p>
             <figure class="float-right ml-4">
               <img class="img-fluid" src="images/image004.png" alt="Figure 4 First face model">
-              <figcaption>Figure 4 First face model</figcaption>
+              <figcaption>Figure 4 First face model.</figcaption>
             </figure>
             The reference software for this project was Blender. In order to explain the complexity of this work, its
             fundamental steps must be retraced. Since in Blender most of the meshes originate from a cube, by using the
@@ -683,7 +683,7 @@
             more natural. The same was done later for all joints.</p>
           <figure>
             <img class="img-fluid" src="images/image005.png" alt="Figure 5 First body model">
-            <figcaption>Figure 5 First body model</figcaption>
+            <figcaption>Figure 5 First body model.</figcaption>
           </figure>
           <p>The hands, the teeth and the tongue were instead carved starting from a cube, subsequently joined to the
             rest of the body.</p>
@@ -692,8 +692,8 @@
             look. Numerous photos document Maderna's style, which seemed particularly suitable also to bring the
             protagonist closer to the public.</p>
           <figure>
-            <img class="img-fluid" src="images/image011.png" alt="Figure 6 Bruno Maderna manages the orchestra of the musical domain to the Theater 104 of the Maison de la Radio. (Photo by Laszlo Ruszka / via Getty Images)">
-            <figcaption>Figure 6 Bruno Maderna manages the orchestra of the musical domain to the Theater 104 of the Maison de la Radio</figcaption>
+            <img class="img-fluid" src="images/image006.png" alt="Figure 6 Bruno Maderna manages the orchestra of the musical domain to the Theater 104 of the Maison de la Radio. (Photo by Laszlo Ruszka / via Getty Images)">
+            <figcaption>Figure 6 Bruno Maderna manages the orchestra of the musical domain to the Theater 104 of the Maison de la Radio.</figcaption>
           </figure>
           <p>The most delicate aspect in modelling a human character is perhaps the hair, given the complexity involved
             in animating it. To simplify, they were then made using a single mesh, that is a UV sphere, which was halved
@@ -701,10 +701,19 @@
             Maderna's typical hairstyle. The solidify modifier was added to increase the thickness of the hair.</p>
           <p>In conclusion, the shade smooth function and the subdivision surface modifier were used to make everything
             less edgy.</p>
+          <figure>
+            <img class="img-fluid" src="images/image007.png" alt="Figure 7 Final body model">
+            <figcaption>Figure 7 Final body model.</figcaption>
+          </figure>
           
           <h4 class="text-black">The armature and the rigs</h4>
           
-          <p>Modelling a mesh is not enough to animate it, but an armature must be made. In addition, the operation was
+          <p>
+            <figure class="float-lg-right ml-lg-5">
+              <img class="img-fluid" src="images/image008.png" alt="Figure 8 The armature and the rigs">
+              <figcaption>Figure 8 The armature and the rigs.</figcaption>
+            </figure>
+            Modelling a mesh is not enough to animate it, but an armature must be made. In addition, the operation was
             entirely manual, which consisted in adding all the joints bone to bone. In the case of our project, the
             bones of the chest, hips, legs and feet were essential to allow the character to walk, as it was a general
             controller for the whole body, so that its position could be changed. In addition, the bones of the
@@ -738,8 +747,9 @@
           
           <h4 class="text-black">The textures</h4>
           
-          <p>The textures, that is to say the materials for the character, were generated by adopting two complementary
-            strategies: the textures were downloaded free of charge from the <a
+          <p>
+            The textures, that is to say the materials for the character, were generated by adopting two complementary
+            strategies: the textures were downloaded free of charge from the <a target="_blank"
               href="https://www.textures.com/"><em>textures.com</em></a> website and the so-called procedural textures
             were created using mathematical descriptions. An emblematic example of this second modality is the skin,
             which is composed of a base colour and a subsurface colour, which becomes visible when the light hits the
@@ -748,6 +758,10 @@
             Worley noise<a href="#_ftn15" name="_ftnref15">[15]</a> (known as Voronoi texture in the Blender), an
             algorithm introduced by Steven Worley in 1996, very suitable for simulating stone, water or, as in this
             case, biological cells. A similar technique has also been used to make the shoe leather.</p>
+          <figure>
+            <img class="img-fluid" src="images/image009.png" alt="Figure 9 Textures diagram for the skin inside the shader editor in Blender.">
+            <figcaption>Figure 9 Textures diagram for the skin inside the shader editor in Blender.</figcaption>
+          </figure>
           <p>A separate discussion must be made for the eyes, by far the most complex surface to simulate. In fact the
             cornea, iris and pupil were treated as different surfaces. The iris and the pupil, which are respectively
             the colorful and the black part of the eye, were obtained by separating three concentric circles from the UV
@@ -757,21 +771,27 @@
             not only made of colours but also reflections. The cornea was therefore made white on the whole surface,
             less than near the iris, where it was made transparent. The screen-space reflections and refractions then
             produced credible reflexes, which significantly contributedto the character's expressiveness.</p>
-          <p>On the other hand, the materials for the jeans, the polo shirt and hair were imported from <a
+            <figure>
+              <img class="img-fluid" src="images/image010.png" alt="Figure 10 The eyes' textures.">
+              <figcaption>Figure 10 The eyes' textures.</figcaption>
+            </figure>
+          <p>
+            On the other hand, the materials for the jeans, the polo shirt and hair were imported from <a target="_blank"
               href="https://www.textures.com/">textures.com</a>. The criterion, in this case, was simple and
             straightforward: apply an albedo, a roughness map and a normal map. Respectively they are a colour map but
             without additional lights and shadows, an indication of how rough a surface is and an RGB colour map to
             create a three‑dimensional relief on a two‑dimensional plane.</p>
-          
-          
-          
-          
+          <figure>
+            <img class="img-fluid" src="images/image011.png" alt="Figure 11 The clothes' textures.">
+            <figcaption>Figure 11 The clothes' textures.</figcaption>
+          </figure>
+        
           <h3 class="text-black"><a name="_Toc42640296"></a>Modelling the archive</h3>
           
           <p>For the character of Maderna, it was necessary to proceed from scratch, because no one had ever modelled
             him in 3D before. On the contrary, for the realization of the archive, it was possible to reuse numerous
             models available for free online.</p>
-          <p>This was the case, for example, of the different bookshelves, which we found at <a
+          <p>This was the case, for example, of the different bookshelves, which we found at <a target="_blank"
               href="https://free3d.com/3d-model/bookshelf-539980.html">https://free3d.com/3d-model/bookshelf-539980.html</a>.
             This model also includes the textures. Then, we took the model and duplicated it eight times, in order to
             give the idea of an actual archive.</p>
@@ -779,6 +799,10 @@
             reasons: the first is that this pilot was conceived and built in May 2020, in full Coronavirus emergency,
             and the archive at that time was closed; the second reason is that it is precisely a pilot and attempting to
             replicate an existing environment in 3D would have been a goal that defied the purpose of this work.</p>
+          <figure>
+            <img class="img-fluid" src="images/image012.png" alt="Figure 12 The clothes' textures.">
+            <figcaption>Figure 12 The clothes' textures.</figcaption>
+          </figure>
 
           <p> Returning to the modelling, the scene needed something more; thus, we decided to add some tables. We
             created just one, and then we duplicated it like we did previously for the bookshelves. Then, we placed the
@@ -789,7 +813,7 @@
             archive.</p>
           <p>Next, a globe was put at the centre of the room.</p>
           
-          <p>In addition, the model for a lamp was imported from this link <a
+          <p>In addition, the model for a lamp was imported from this link <a target="_blank"
               href="https://free3d.com/it/3d-model/avonni-polyresin-table-lamp-214817.html">https://free3d.com/it/3d-model/avonni-polyresin-table-lamp-214817.html</a>,
             it was duplicated and added on each table. Also,other bookshelves were copied and placed on the wall
             in the back of the room.</p>
@@ -890,25 +914,25 @@
             <li>Amellini M., Baroni M., B&ouml;hlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G.,
               Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). <em>Studi su Bruno
                 Maderna</em>, Milano: Edizioni Suvini Zerboni.</li>
-            <li>Articolo 70 &ndash; Law 633/1941 on copyright. Retrieved from &lt;<a
+            <li>Articolo 70 &ndash; Law 633/1941 on copyright. Retrieved from &lt;<a target="_blank"
                 href="http://www.interlex.it/testi/l41_633.htm#70">http://www.interlex.it/testi/l41_633.htm#70</a>&gt;.
             </li>
             <li>Benyon D., (2010). <em>Designing Interactive Systems</em>, United States: Addison-Wesley.</li>
-            <li><em>Blender 2.82 Reference Manual</em>. Retrieved from &lt;<a
+            <li><em>Blender 2.82 Reference Manual</em>. Retrieved from &lt;<a target="_blank"
                 href="https://docs.blender.org/manual/en/latest/">https://docs.blender.org/manual/en/latest/</a>&gt;.
             </li>
             <li>Booch G., Rumbaugh J., Jacobson I. (2005)<em>. Unified Modeling Language User Guide, The (2 ed.). p.
                 496</em>, London: Pearson.</li>
             <li>Caraceni, S. (2015). <em>Designing a taxonomy for virtual museums for the use of AVICOMM
-                professionals</em>, Plymouth: Plymouth University. Retrieved from &lt;<a
+                professionals</em>, Plymouth: Plymouth University. Retrieved from &lt;<a target="_blank"
                 href="https://pearl.plymouth.ac.uk/handle/10026.1/9915">https://pearl.plymouth.ac.uk/handle/10026.1/9915</a>&gt;.
             </li>
             <li>Carrozzino M., Bergamasco M. (2010). <em>Beyond virtual museums: Experiencing immersive virtual reality
-                in real museums</em>, Pisa: Scuola Superiore Sant&rsquo;Anna. Retrieved from: &lt;<a
+                in real museums</em>, Pisa: Scuola Superiore Sant&rsquo;Anna. Retrieved from: &lt;<a target="_blank"
                 href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&amp;rep=rep1&amp;type=pdf</a>&gt;
             </li>
             <li>Fubini, E. (2001). <em>L&rsquo;estetica musicale dal Settecento a oggi</em>, Torino: Einaudi.</li>
-            <li>ICOMM Museum Definition. Retrieved from &lt;<a
+            <li>ICOMM Museum Definition. Retrieved from &lt;<a target="_blank"
                 href="https://icom.museum/en/resources/standards-guidelines/museum-definition/">https://icom.museum/en/resources/standards-guidelines/museum-definition/</a>&gt;.
             </li>
             <li>Ippolito J., Rinehart R. (2014). <em>Re-collection: Art, New Media, and Social Memory</em>,
@@ -917,28 +941,28 @@
               D. Zillmann (Eds.), <em>LEA's communication series. Media effects: Advances in theory and research</em>
               (p. 1&ndash;18). Lawrence Erlbaum Associates Publishers.</li>
             <li>Mottola Molfino A. (2010). <em>Musei del Genius Loci: il modello italiano</em>. Italia Nostra, 454.
-              Retrieved from &lt;<a
+              Retrieved from &lt;<a target="_blank"
                 href="http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf">http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf</a>&gt;.
             </li>
-            <li>(April 4, 2015). <em>How to Create a Walk Cycle Animation in Blender</em>. Retrieved from: &lt;<a
+            <li>(April 4, 2015). <em>How to Create a Walk Cycle Animation in Blender</em>. Retrieved from: &lt;<a target="_blank"
                 href="https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender">https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender</a>&gt;
             </li>
             <li>Serianni L., Antonelli G. (2011). <em>Manuale di linguistica italiana. Storia, attualit&agrave;,
                 grammatica</em>, Milano: B. Mondadori.</li>
             <li>Serrel B. (1994). <em>The Question of Visitor Styles</em>, Illinois: Serrel &amp; Associates. Retrieved
-              from &lt; <a
+              from &lt; <a target="_blank"
                 href="https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf">https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf</a>
               &gt;.</li>
-            <li><em>SpeechRecognition 3.8.1</em> <em>Reference Manual</em>. Retrieved from &lt;<a
+            <li><em>SpeechRecognition 3.8.1</em> <em>Reference Manual</em>. Retrieved from &lt;<a target="_blank"
                 href="https://pypi.org/project/SpeechRecognition/">https://pypi.org/project/SpeechRecognition/</a>&gt;.
             </li>
-            <li><em>Subsurface scattering</em>. (2020). In <em>Wikipedia</em>. Retrieved from &lt;<a
+            <li><em>Subsurface scattering</em>. (2020). In <em>Wikipedia</em>. Retrieved from &lt;<a target="_blank"
                 href="https://en.wikipedia.org/wiki/Subsurface_scattering">https://en.wikipedia.org/wiki/Subsurface_scattering</a>&gt;.
             </li>
-            <li>Textures retrieved from &lt;<a href="https://www.textures.com/">https://www.textures.com/</a>&gt;.</li>
+            <li>Textures retrieved from &lt;<a target="_blank" href="https://www.textures.com/">https://www.textures.com/</a>&gt;.</li>
             <li>Vaccarone A., Sit&agrave; M.G., Vitale C. (2014). <em>Poetiche e culture dall'Ottocento ai giorni
                 nostri</em>, Bologna: Zanichelli.</li>
-            <li><em>Worley noise</em>. (2020). In <em>Wikipedia</em>. Retrieved from &lt; <a
+            <li><em>Worley noise</em>. (2020). In <em>Wikipedia</em>. Retrieved from &lt; <a target="_blank"
                 href="https://en.wikipedia.org/wiki/Worley_noise">https://en.wikipedia.org/wiki/Worley_noise</a>&gt;.
             </li>
           </ul>
@@ -953,31 +977,31 @@
           <p><a href="#_ftnref4" name="_ftn4">[4]</a> Fubini, E. (2001). <em>L&rsquo;estetica musicale dal Settecento a
               oggi</em>, Torino: Einaudi.</p>
           <p><a href="#_ftnref5" name="_ftn5">[5]</a> Articolo 70 &ndash; Law 633/1941 on copyright. Retrieved from
-            &lt;<a
+            &lt;<a target="_blank"
               href="http://www.interlex.it/testi/l41_633.htm#70">http://www.interlex.it/testi/l41_633.htm#70</a>&gt;.
           </p>
           <p><a href="#_ftnref6" name="_ftn6">[6]</a> Carrozzino M., Bergamasco M. (2010). <em>Beyond virtual museums:
               Experiencing immersive virtual reality in real museums</em>, Pisa: Scuola Superiore Sant&rsquo;Anna.
-            Retrieved from: &lt;<a
+            Retrieved from: &lt;<a target="_blank"
               href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&amp;rep=rep1&amp;type=pdf</a>&gt;
           </p>
           <p><a href="#_ftnref7" name="_ftn7">[7]</a> <em>SpeechRecognition 3.8.1</em> <em>Reference Manual</em>.
-            Retrieved from &lt;<a
+            Retrieved from &lt;<a target="_blank"
               href="https://pypi.org/project/SpeechRecognition/">https://pypi.org/project/SpeechRecognition/</a>&gt;.
           </p>
-          <p><a href="#_ftnref8" name="_ftn8">[8]</a> ICOMM Museum Definition. Retrieved from &lt;<a
+          <p><a href="#_ftnref8" name="_ftn8">[8]</a> ICOMM Museum Definition. Retrieved from &lt;<a target="_blank"
               href="https://icom.museum/en/resources/standards-guidelines/museum-definition/">https://icom.museum/en/resources/standards-guidelines/museum-definition/</a>&gt;.
           </p>
           <p><a href="#_ftnref9" name="_ftn9">[9]</a> Caraceni, S. (2015). <em>Designing a taxonomy for virtual museums
-              for the use of AVICOMM professionals</em>, Plymouth: Plymouth University. Retrieved from &lt;<a
+              for the use of AVICOMM professionals</em>, Plymouth: Plymouth University. Retrieved from &lt;<a target="_blank"
               href="https://pearl.plymouth.ac.uk/handle/10026.1/9915">https://pearl.plymouth.ac.uk/handle/10026.1/9915</a>&gt;.
           </p>
           <p><a href="#_ftnref10" name="_ftn10">[10]</a> Mottola Molfino A. (2010). Musei del Genius Loci: il modello
-            italiano. Italia Nostra, 454. Retrieved from &lt;<a
+            italiano. Italia Nostra, 454. Retrieved from &lt;<a target="_blank"
               href="http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf">http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf</a>&gt;.
           </p>
           <p><a href="#_ftnref11" name="_ftn11">[11]</a> Serrel B. (1994). <em>The Question of Visitor Styles</em>,
-            Illinois: Serrel &amp; Associates. Retrieved from &lt; <a
+            Illinois: Serrel &amp; Associates. Retrieved from &lt; <a target="_blank"
               href="https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf">https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf</a>
             &gt;.</p>
           <p><a href="#_ftnref12" name="_ftn12">[12]</a> McCombs, M; Reynolds, A (2002). <em>News influence on our
@@ -986,18 +1010,18 @@
           <p><a href="#_ftnref13" name="_ftn13">[13]</a> Booch G., Rumbaugh J., Jacobson I. (2005). <em>Unified Modeling
               Language User</em> Guide, The (2 ed.). p. 496, London: Pearson.</p>
           <p><a href="#_ftnref14" name="_ftn14">[14]</a> <em>Subsurface scattering</em>. (2020). In <em>Wikipedia</em>.
-            Retrieved from &lt;<a
+            Retrieved from &lt;<a target="_blank"
               href="https://en.wikipedia.org/wiki/Subsurface_scattering">https://en.wikipedia.org/wiki/Subsurface_scattering</a>&gt;.
           </p>
           <p><a href="#_ftnref15" name="_ftn15">[15]</a> <em>Worley noise</em>. (2020). In <em>Wikipedia</em>. Retrieved
-            from &lt;<a
+            from &lt;<a target="_blank"
               href="https://en.wikipedia.org/wiki/Worley_noise">https://en.wikipedia.org/wiki/Worley_noise</a>&gt;.</p>
           
           
           <p><a href="#_ftnref16" name="_ftn16">[16]</a> Serianni L., Antonelli G. (2011). <em>Manuale di linguistica
               italiana. Storia, attualit&agrave;, grammatica</em>, Milano: B. Mondadori.</p>
           <p><a href="#_ftnref17" name="_ftn17">[17]</a> Pluralsight. (April 4, 2015). <em>How to Create a Walk Cycle
-              Animation in Blender</em>. Retrieved from: &lt;<a
+              Animation in Blender</em>. Retrieved from: &lt;<a target="_blank"
               href="https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender">https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender</a>&gt;
           </p>
         </div>
@@ -1022,10 +1046,12 @@
         <div class="row">
           <div class="col-md-8">
             <div class="row">
-              <div class="col-md-5">
+              <div class="col-md-12">
                 <h2 class="footer-heading mb-4">About From Noise to Music</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere laudantium magnam voluptatum
-                  autem. Amet aliquid nesciunt veritatis aliquam.</p>
+                <p><strong>Creators</strong>: <a href="#" alt="Link to the about us page">Arcangelo Massari, Gemma Centrone</a></p>
+                <p><strong>Course</strong>: <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2019/424640" alt="Link to the course page" target="_blank">Museology, Museography and Virtual Environments</a></p>
+                <p><strong>Professor</strong>: <a href="https://www.unibo.it/sitoweb/simona.caraceni" alt="Link to the professor page" target="_blank">Prof.ssa Simona Caraceni</a></p>
+                <p><strong>Institution</strong>: <a href="https://www.unibo.it/it" alt="Link to the University page" target="_blank">Alma Mater Studiorum</a></p>
               </div>
             </div>
           </div>
