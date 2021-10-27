@@ -434,36 +434,36 @@ Finally, we want to underline that this division of roles was not rigid, but flu
 *   Vaccarone A., Sità M.G., Vitale C. (2014). _Poetiche e culture dall'Ottocento ai giorni nostri_, Bologna: Zanichelli.
 *   _Worley noise_. (2020). In _Wikipedia_. Retrieved from < [https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
 
-[\[1\]](#_ftnref1)<a name="_ftnref1"></a> Benyon D., (2010). _Designing Interactive Systems_, United States: Addison-Wesley.
+\[1\]<a name="_ftn1"></a> Benyon D., (2010). _Designing Interactive Systems_, United States: Addison-Wesley.
 
-[\[2\]](#_ftnref2)<a name="_ftnref2"></a> Amellini M., Baroni M., Böhlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G., Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). _Studi su Bruno Maderna_, Milano: Edizioni Suvini Zerboni.
+\[2\]<a name="_ftn2"></a> Amellini M., Baroni M., Böhlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G., Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). _Studi su Bruno Maderna_, Milano: Edizioni Suvini Zerboni.
 
-[\[3\]](#_ftnref3)<a name="_ftnref3"></a> Vaccarone A., Sità M.G., Vitale C. (2014). _Poetiche e culture dall'Ottocento ai giorni nostri_, Bologna: Zanichelli.
+\[3\]<a name="_ftn3"></a> Vaccarone A., Sità M.G., Vitale C. (2014). _Poetiche e culture dall'Ottocento ai giorni nostri_, Bologna: Zanichelli.
 
-[\[4\]](#_ftnref4)<a name="_ftnref4"></a> Fubini, E. (2001). _L’estetica musicale dal Settecento a oggi_, Torino: Einaudi.
+\[4\]<a name="_ftn4"></a> Fubini, E. (2001). _L’estetica musicale dal Settecento a oggi_, Torino: Einaudi.
 
-[\[5\]](#_ftnref5)<a name="_ftnref5"></a> Articolo 70 – Law 633/1941 on copyright. Retrieved from <[http://www.interlex.it/testi/l41\_633.htm#70](http://www.interlex.it/testi/l41_633.htm#70)\>.
+\[5\]<a name="_ftn5"></a> Articolo 70 – Law 633/1941 on copyright. Retrieved from <[http://www.interlex.it/testi/l41\_633.htm#70](http://www.interlex.it/testi/l41_633.htm#70)\>.
 
-[\[6\]](#_ftnref6)<a name="_ftnref6"></a> Carrozzino M., Bergamasco M. (2010). _Beyond virtual museums: Experiencing immersive virtual reality in real museums_, Pisa: Scuola Superiore Sant’Anna. Retrieved from: <[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf)\>
+\[6\]<a name="_ftn6"></a> Carrozzino M., Bergamasco M. (2010). _Beyond virtual museums: Experiencing immersive virtual reality in real museums_, Pisa: Scuola Superiore Sant’Anna. Retrieved from: <[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf)\>
 
-[\[7\]](#_ftnref7)<a name="_ftnref7"></a> _SpeechRecognition 3.8.1_ _Reference Manual_. Retrieved from <[https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/)\>.
+\[7\]<a name="_ftn7"></a> _SpeechRecognition 3.8.1_ _Reference Manual_. Retrieved from <[https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/)\>.
 
-[\[8\]](#_ftnref8)<a name="_ftnref8"></a> ICOMM Museum Definition. Retrieved from <[https://icom.museum/en/resources/standards-guidelines/museum-definition/](https://icom.museum/en/resources/standards-guidelines/museum-definition/)\>.
+\[8\]<a name="_ftn8"></a> ICOMM Museum Definition. Retrieved from <[https://icom.museum/en/resources/standards-guidelines/museum-definition/](https://icom.museum/en/resources/standards-guidelines/museum-definition/)\>.
 
-[\[9\]](#_ftnref9)<a name="_ftnref9"></a> Caraceni, S. (2015). _Designing a taxonomy for virtual museums for the use of AVICOMM professionals_, Plymouth: Plymouth University. Retrieved from <[https://pearl.plymouth.ac.uk/handle/10026.1/9915](https://pearl.plymouth.ac.uk/handle/10026.1/9915)\>.
+\[9\]<a name="_ftn9"></a> Caraceni, S. (2015). _Designing a taxonomy for virtual museums for the use of AVICOMM professionals_, Plymouth: Plymouth University. Retrieved from <[https://pearl.plymouth.ac.uk/handle/10026.1/9915](https://pearl.plymouth.ac.uk/handle/10026.1/9915)\>.
 
-[\[10\]](#_ftnref10)<a name="_ftnref10"></a> Mottola Molfino A. (2010). Musei del Genius Loci: il modello italiano. Italia Nostra, 454. Retrieved from <[http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf](http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf)\>.
+\[10\]<a name="_ftn10"></a> Mottola Molfino A. (2010). Musei del Genius Loci: il modello italiano. Italia Nostra, 454. Retrieved from <[http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf](http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf)\>.
 
-[\[11\]](#_ftnref11)<a name="_ftnref11"></a> Serrel B. (1994). _The Question of Visitor Styles_, Illinois: Serrel & Associates. Retrieved from < [https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a\_5730.pdf](https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf) >.
+\[11\]<a name="_ftn11"></a> Serrel B. (1994). _The Question of Visitor Styles_, Illinois: Serrel & Associates. Retrieved from < [https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a\_5730.pdf](https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf) >.
 
-[\[12\]](#_ftnref12)<a name="_ftnref12"></a> McCombs, M; Reynolds, A (2002). _News influence on our pictures of the world_. In J. Bryant & D. Zillmann (Eds.), _LEA's communication series. Media effects: Advances in theory and research_ (p. 1–18). Lawrence Erlbaum Associates Publishers.
+\[12\]<a name="_ftn12"></a> McCombs, M; Reynolds, A (2002). _News influence on our pictures of the world_. In J. Bryant & D. Zillmann (Eds.), _LEA's communication series. Media effects: Advances in theory and research_ (p. 1–18). Lawrence Erlbaum Associates Publishers.
 
-[\[13\]](#_ftnref13)<a name="_ftnref13"></a> Booch G., Rumbaugh J., Jacobson I. (2005). _Unified Modeling Language User_ Guide, The (2 ed.). p. 496, London: Pearson.
+\[13\]<a name="_ftn13"></a> Booch G., Rumbaugh J., Jacobson I. (2005). _Unified Modeling Language User_ Guide, The (2 ed.). p. 496, London: Pearson.
 
-[\[14\]](#_ftnref14)<a name="_ftnref14"></a> _Subsurface scattering_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Subsurface\_scattering](https://en.wikipedia.org/wiki/Subsurface_scattering)\>.
+\[14\]](#_ftnref14)<a name="_ftn14"></a> _Subsurface scattering_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Subsurface\_scattering](https://en.wikipedia.org/wiki/Subsurface_scattering)\>.
 
-[\[15\]](#_ftnref15)<a name="_ftnref15"></a> _Worley noise_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
+\[15\]](#_ftnref15)<a name="_ftn15"></a> _Worley noise_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
 
-[\[16\]](#_ftnref16)<a name="_ftnref16"></a> Serianni L., Antonelli G. (2011). _Manuale di linguistica italiana. Storia, attualità, grammatica_, Milano: B. Mondadori.
+\[16\]](#_ftnref16)<a name="_ftn16"></a> Serianni L., Antonelli G. (2011). _Manuale di linguistica italiana. Storia, attualità, grammatica_, Milano: B. Mondadori.
 
-[\[17\]](#_ftnref17)<a name="_ftnref17"></a> Pluralsight. (April 4, 2015). _How to Create a Walk Cycle Animation in Blender_. Retrieved from: <[https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender](https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender)\>
+\[17\]](#_ftnref17)<a name="_ftn17"></a> Pluralsight. (April 4, 2015). _How to Create a Walk Cycle Animation in Blender_. Retrieved from: <[https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender](https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender)\>
