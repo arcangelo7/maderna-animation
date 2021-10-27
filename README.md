@@ -413,27 +413,6 @@ Finally, we want to underline that this division of roles was not rigid, but flu
 
 ## Bibliography
 
-*   Amellini M., Baroni M., Böhlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G., Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). _Studi su Bruno Maderna_, Milano: Edizioni Suvini Zerboni.
-*   Articolo 70 – Law 633/1941 on copyright. Retrieved from <[http://www.interlex.it/testi/l41\_633.htm#70](http://www.interlex.it/testi/l41_633.htm#70)\>.
-*   Benyon D., (2010). _Designing Interactive Systems_, United States: Addison-Wesley.
-*   _Blender 2.82 Reference Manual_. Retrieved from <[https://docs.blender.org/manual/en/latest/](https://docs.blender.org/manual/en/latest/)\>.
-*   Booch G., Rumbaugh J., Jacobson I. (2005)_. Unified Modeling Language User Guide, The (2 ed.). p. 496_, London: Pearson.
-*   Caraceni, S. (2015). _Designing a taxonomy for virtual museums for the use of AVICOMM professionals_, Plymouth: Plymouth University. Retrieved from <[https://pearl.plymouth.ac.uk/handle/10026.1/9915](https://pearl.plymouth.ac.uk/handle/10026.1/9915)\>.
-*   Carrozzino M., Bergamasco M. (2010). _Beyond virtual museums: Experiencing immersive virtual reality in real museums_, Pisa: Scuola Superiore Sant’Anna. Retrieved from: <[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9978&rep=rep1&type=pdf)\>
-*   Fubini, E. (2001). _L’estetica musicale dal Settecento a oggi_, Torino: Einaudi.
-*   ICOMM Museum Definition. Retrieved from <[https://icom.museum/en/resources/standards-guidelines/museum-definition/](https://icom.museum/en/resources/standards-guidelines/museum-definition/)\>.
-*   Ippolito J., Rinehart R. (2014). _Re-collection: Art, New Media, and Social Memory_, Massachusetts: The MIT Press.
-*   McCombs, M; Reynolds, A (2002). _News influence on our pictures of the world_. In J. Bryant & D. Zillmann (Eds.), _LEA's communication series. Media effects: Advances in theory and research_ (p. 1–18). Lawrence Erlbaum Associates Publishers.
-*   Mottola Molfino A. (2010). _Musei del Genius Loci: il modello italiano_. Italia Nostra, 454. Retrieved from <[http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf](http://www.italianostra.org/wp-content/uploads/2010/07/da-Bollettino-IN-del-luglio-2010-n.-454.pdf)\>.
-*   (April 4, 2015). _How to Create a Walk Cycle Animation in Blender_. Retrieved from: <[https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender](https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender)\>
-*   Serianni L., Antonelli G. (2011). _Manuale di linguistica italiana. Storia, attualità, grammatica_, Milano: B. Mondadori.
-*   Serrel B. (1994). _The Question of Visitor Styles_, Illinois: Serrel & Associates. Retrieved from < [https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a\_5730.pdf](https://www.informalscience.org/sites/default/files/VSA-a0a4n4-a_5730.pdf) >.
-*   _SpeechRecognition 3.8.1_ _Reference Manual_. Retrieved from <[https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/)\>.
-*   _Subsurface scattering_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Subsurface\_scattering](https://en.wikipedia.org/wiki/Subsurface_scattering)\>.
-*   Textures retrieved from <[https://www.textures.com/](https://www.textures.com/)\>.
-*   Vaccarone A., Sità M.G., Vitale C. (2014). _Poetiche e culture dall'Ottocento ai giorni nostri_, Bologna: Zanichelli.
-*   _Worley noise_. (2020). In _Wikipedia_. Retrieved from < [https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
-
 \[1\]<a name="_ftn1"></a> Benyon D., (2010). _Designing Interactive Systems_, United States: Addison-Wesley.
 
 \[2\]<a name="_ftn2"></a> Amellini M., Baroni M., Böhlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G., Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). _Studi su Bruno Maderna_, Milano: Edizioni Suvini Zerboni.
@@ -460,10 +439,10 @@ Finally, we want to underline that this division of roles was not rigid, but flu
 
 \[13\]<a name="_ftn13"></a> Booch G., Rumbaugh J., Jacobson I. (2005). _Unified Modeling Language User_ Guide, The (2 ed.). p. 496, London: Pearson.
 
-\[14\]](#_ftnref14)<a name="_ftn14"></a> _Subsurface scattering_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Subsurface\_scattering](https://en.wikipedia.org/wiki/Subsurface_scattering)\>.
+\[14\]]<a name="_ftn14"></a> _Subsurface scattering_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Subsurface\_scattering](https://en.wikipedia.org/wiki/Subsurface_scattering)\>.
 
-\[15\]](#_ftnref15)<a name="_ftn15"></a> _Worley noise_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
+\[15\]]<a name="_ftn15"></a> _Worley noise_. (2020). In _Wikipedia_. Retrieved from <[https://en.wikipedia.org/wiki/Worley\_noise](https://en.wikipedia.org/wiki/Worley_noise)\>.
 
-\[16\]](#_ftnref16)<a name="_ftn16"></a> Serianni L., Antonelli G. (2011). _Manuale di linguistica italiana. Storia, attualità, grammatica_, Milano: B. Mondadori.
+\[16\]]<a name="_ftn16"></a> Serianni L., Antonelli G. (2011). _Manuale di linguistica italiana. Storia, attualità, grammatica_, Milano: B. Mondadori.
 
-\[17\]](#_ftnref17)<a name="_ftn17"></a> Pluralsight. (April 4, 2015). _How to Create a Walk Cycle Animation in Blender_. Retrieved from: <[https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender](https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender)\>
+\[17\]]<a name="_ftn17"></a> Pluralsight. (April 4, 2015). _How to Create a Walk Cycle Animation in Blender_. Retrieved from: <[https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender](https://www.pluralsight.com/blog/tutorials/walk-cycle-animation-in-blender)\>
