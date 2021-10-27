@@ -1,25 +1,23 @@
 # From Noise to Music
 
-Table of contents
------------------
+## Table of contents
 
-1.  [Introduction](#_Toc42640287)
-2.  [Concept of the project](#_Toc42640288)
-    1.  [The storyline](#_Toc42640289)
-    2.  [The historical context](#_Toc42640290)
-3.  [Development and technological requirements](#_Toc42640291)
-4.  [Museological Approach](#_Toc42640292)
-5.  [Description of the interaction between the project and the users](#_Toc42640293)
-6.  [Pilot production](#_Toc42640294)
-    1.  [Modelling the character](#_Toc42640295)
-    2.  [Modelling the archive](#_Toc42640296)
-    3.  [The animation](#_Toc42640297)
-7.  [Further development and maintenance issues](#_Toc42640298)
-8.  [Roles in the project](#_Toc42640299)
-9.  [Bibliography](#_Toc42640300)
+1.  [Introduction](#introduction)
+2.  [Concept of the project](#concept-of-the-project)
+    1.  [The storyline](#the-storyline)
+    2.  [The historical context](#the-historical-context)
+3.  [Development and technological requirements](#development-and-technological-requirements)
+4.  [Museological Approach](#museological-approach)
+5.  [Description of the interaction between the project and the users](#description-of-the-interaction-between-the-project-and-the-users)
+6.  [Pilot production](#pilot-production)
+    1.  [Modelling the character](#modelling-the-character)
+    2.  [Modelling the archive](#modelling-the-archive)
+    3.  [The animation](#the-animation)
+7.  [Further development and maintenance issues](#further-development-and-maintenance-issues)
+8.  [Roles in the project](#roles-in-the-project)
+9.  [Bibliography](#nibliography)
 
-Introduction
-------------
+## Introduction
 
 The aim of this project is to promote the fiftieth anniversary of Bruno Maderna, which will be the 13th November 2023. Bruno Maderna was a great orchestral composer and musician who founded RAI’s Musical Phonology Studio in Milan, which was one of the most important research centers of contemporary electronic music from 1955 to 1983. Maderna also had a great importance within the Emilia Romagna region, in which there are the Cesena Music Conservatory, the symphonic orchestra of the city of Forlì and the Archive of music in Bologna, which is named after him.
 
@@ -37,8 +35,7 @@ Regarding private users, our project would be appropriate for both a general use
 
 Figure 1 Concept map on the project.
 
-Concept of the project
-----------------------
+## Concept of the project
 
 ### The storyline
 
@@ -100,8 +97,7 @@ Frank Zappa was a famous rock musician, composer and iconoclast. Varese, Webern 
 
 The story told by Maderna ends with the extraordinary figure of Laurie Anderson. "Newsweek" magazine described her well on February 21, 1983, by saying: "Anderson is like an electronic Cassandra, a prophetess, a sibyl, feeding us words, images, sounds, melodies, gags, dreams and stories". Undoubtedly influenced by John Cage's indeterminacy, she aimed to merge with the machine in music production. Her style is characterized by the use of an androgynous voice processing, as well as pulsating dance rhythms and hypnotic images, a real example of_Gesamtkunstwerk_, of Total Artwork in the postmodern era. Her song_O Superman_, from the 1983 4-part performance_United States,_has remained well known.
 
-Development and technological requirements
-------------------------------------------
+## Development and technological requirements
 
 For this dissertation, we focused on the development of a prototype, that is about three and a half minutes of animation which sees Bruno Maderna as the only character, and the archive dedicated to him as the only environment. It is clear, however, that the intention is to develop a much more complete and complex product, the specifications of which we intend to present in this chapter.
 
@@ -131,8 +127,7 @@ From a software point of view, numerous libraries and APIs deal with voice recog
 
 To sum up, for the development we intend to use Blender to model in 3D and create the animation, the Python_SpeechRecognition_library for speech recognition and Javascript for playback control. From a hardware point of view, to make the experience possible, the museum should only make available a computer with an Internet connection, a projector and a microphone.
 
-Museological Approach
----------------------
+## Museological Approach
 
 The purposes of our project adapt perfectly to the goals of a museum in general: to educate and entertain. ICOM has defined the museum as "a non-profit, permanent institution in the service of society and its development, open to the public, which acquires, conserves, researches, communicates and exhibits the tangible and intangible heritage of humanity and its environment for the purposes of education, study and enjoyment"[\[8\]](#_ftn8).
 
@@ -212,8 +207,7 @@ The choice to make the experience customizable by the user, giving him the possi
 
 This discourse is part of a more general evolution of communication theory. It went from the hypodermic theory - which considered the mass media as authoritative, persuasive tools acting on a passive and inert mass - to the agenda-setting, which instead sees viewers as influential figures who choose what to look[\[12\]](#_ftn12). Then, we went from the passivity of the public to the research of their tastes and the most palatable ways to convey a message. It is no longer enough to propose contents, but we have to adapt to our target. That is why we decided to personalize the experience and make it interactive.
 
-Description of the interaction between the project and the users
-----------------------------------------------------------------
+## Description of the interaction between the project and the users
 
 In order to describe the interaction between the project and the user, we have chosen to use UML, the Unified Modeling Language, a general-purpose, modelling language to visualize the design of a system.[\[13\]](#_ftn13)
 
@@ -225,8 +219,7 @@ The graph consists of four main elements: the system, represented by the central
 
 Going into the detail of our chart, we can see how the action begins because of the visitor's approach near the projection. A sensor detects its presence and, if the animation is not already in progress, starts it. The introduction starts: the public sees the opening scene with the boys in the archive, the appearance of Maderna and the first speech. Then, the user is allowed to choose whether to watch all twenty minutes of animation or select the composers that interest him most. The user decides, and the animation continues following the selection. It's the only moment in which there is an active interaction between the visitor and the projection; therefore, it is the single occasion in which the user may need assistance. It is the reason why we used the "exclude" label in this step. Note also that for the entire duration of the process there is no need for mediations by museum staff because the whole system is automatic. If the user does not need help, the museum never intervenes at all. Finally, the animation comes to an end, and the visitor can continue his visit.
 
-Pilot production
-----------------
+## Pilot production
 
 As a pilot production, we chose to create an animation of about three minutes. Regarding the time of the story, it takes place after the three boys have been locked up in the archive and after the apparition of Maderna, when the composer introduces the speech that will lead him to talk about the evolution of noise as music in the twentieth century. We can, therefore, consider this passage as the actual entry of the character on the scene, who at this stage is the only one to speak and act. It should be noted that we chose to make him speak Italian, for various reasons: first of all, because the artist is Italian and, although he knew English and German as well, the public will be that of two Bolognese museums. The most appropriate language is, therefore, Italian. The script is shown below:
 
@@ -402,8 +395,7 @@ Figure 18 Walk cycle.
 
 To complete the animation, four lights were inserted inside each of the four lamps. Finally, the camera was animated, as if it was a real control room.
 
-Further development and maintenance issues
-------------------------------------------
+## Further development and maintenance issues
 
 The most natural future development for this project is primarily the realization of everything that was conceived but not produced. To sum up: the modelling of other characters and settings and the implementation of a program to manage the interaction with the end-user. The latter aspect includes the creation of a web app that shows the animation on the client-side, while on the server-side processes the voice commands given by the user during the interaction phase.
 
@@ -413,15 +405,13 @@ We now want to discuss the problems related to the preservation of the digital p
 
 Another central aspect was the choice of modelling software. There are numerous, among the most famous Maya, Cinema 4D, AutoCAD, 3D Studio Max and Unity 3D, some of these superior to Blender for cleaner UI or rendering engine power. However, Blender was chosen precisely for reasons of preservation. Blender is open-source software, and its longevity does not depend on the induced activities of a company, but on the passion of a community. Therefore, it will last longer than all the other software mentioned above. It is also completely free, a non-secondary factor when the recipient is a museum and not a company, a non-profit cultural institution and, therefore, with more limited liquidity.
 
-Roles in the project
---------------------
+## Roles in the project
 
 This project was conceived, created and documented by Gemma Centrone and Arcangelo Massari. Gemma Centrone took care of modelling the library, making researches on it and documenting this process. She also wrote the introduction, the storyline, the screenplay and finally dealt with the museological approach. On the other hand, Arcangelo Massari has dealt with the modelling of the character of Bruno Maderna, with the researches related to his history and in general with the history of music in the twentieth century, in addition to the documentation of this process. He also created the animation and wrote the chapters on technological development, on the description of the interaction between the project and the user, on future developments and maintenance issues.
 
 Finally, we want to underline that this division of roles was not rigid, but fluid and that during the whole process there was a fruitful exchange between the two members of the group.
 
-Bibliography
-------------
+## Bibliography
 
 *   Amellini M., Baroni M., Böhlen M.J., Taccani G.C., Dalmonte R., Garda M., Magnani F., Montecchi G., Noller J., Petazzi P., Riva G., Romito M., Solbiati A., and Vidolin A., (2013). _Studi su Bruno Maderna_, Milano: Edizioni Suvini Zerboni.
 *   Articolo 70 – Law 633/1941 on copyright. Retrieved from <[http://www.interlex.it/testi/l41\_633.htm#70](http://www.interlex.it/testi/l41_633.htm#70)\>.
