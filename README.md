@@ -15,7 +15,7 @@
     3.  [The animation](#the-animation)
 7.  [Further development and maintenance issues](#further-development-and-maintenance-issues)
 8.  [Roles in the project](#roles-in-the-project)
-9.  [Bibliography](#nibliography)
+9.  [Bibliography](#bibliography)
 
 ## Introduction
 
